@@ -63,14 +63,14 @@ Landing Zone → Bronze Layer → Silver Layer → Gold Layer → BI / Analytics
 2. Importe os notebooks da pasta `/notebooks`.  
 3. Execute na **ordem numérica**.  
 4. Configure um cluster Spark compatível com **Delta Lake** OU utilize o serviço Serveless da Free Edition.
-5. *Caso você tenha a versão standard (ou +), você poderá utilizar esses notebooks para gerar um Workflow do processo.*  
-
+5. *Caso você tenha a versão standard (ou +), você poderá utilizar esses notebooks para gerar um Workflow do processo.*
+6. Totalmente usavel em PowerBI.
 ---
 
 ## 🔗 Links Úteis
 - [Documentação PySpark](https://spark.apache.org/docs/latest/api/python/)  
 - [Delta Lake Docs](https://delta.io/)  
-- [Databricks Community Edition](https://community.cloud.databricks.com/)  
+- [Databricks Free Edition](https://community.cloud.databricks.com/)  
 
 ---
 
