@@ -1,4 +1,4 @@
-# Data Lakehouse: Sales Pipeline with Medallion Architecture 🚀
+# Data Lakehouse: Sales Pipeline with Medallion Architecture 
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF6F00?style=flat&logo=databricks) 
 ![PySpark](https://img.shields.io/badge/PySpark-EE4C2C?style=flat&logo=apache-spark) 
